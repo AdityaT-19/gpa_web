@@ -1,11 +1,11 @@
 {
-    "name": "GPA Calculator",
-    "short_name": "GPA Calculator",
+    "name": "gpa_cal",
+    "short_name": "gpa_cal",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#hexcode",
     "theme_color": "#hexcode",
-    "description": "GPA Calculator for JSS S&T U students",
+    "description": "A new Flutter project.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
